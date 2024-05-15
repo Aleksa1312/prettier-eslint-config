@@ -1,7 +1,7 @@
 # Prettier Eslint Config
 
 This repo contains my current configuration of `prettier.config.js` and `.eslintrc.cjs` files.
-I use this configuration in my **next.js production** apps.
+I use this configuration in my **Next.js production** apps.
 
 ## Why use strict EsLint config?
 
