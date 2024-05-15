@@ -27,7 +27,7 @@ You can refer to the official [EsLint docs](https://eslint.org/docs/latest/use/g
 
 ### Adding Prettier to your project
 
-You can refer to the official [Prettier docs](https://prettier.io/docs/en/install.html)
+You can refer to the official [Prettier docs](https://prettier.io/docs/en/install.html).
 
 ### Install Prettier TailwindCSS plugin
 
